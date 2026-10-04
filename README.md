@@ -23,6 +23,7 @@ List of resources related to production and distribution of digital books.
 - [Distributed Proofreaders](https://www.pgdp.net/): coordinates volunteer-driven proofreading of OCR scans; contributes books to Project Gutenberg
   - [Distributed Proofreaders Canada](https://www.pgdpcanada.net/)
 - [Standard Ebooks tools](https://github.com/standardebooks/tools): Set of command-line tools used for editing and building epub and mobi ebooks.
+- [AI eBook Pro](https://aiebookpro.com/): AI writing tool that drafts a complete ebook with a cover and exports EPUB, PDF and DOCX
 
 ## DRM-free ebook shops and publishers
 
